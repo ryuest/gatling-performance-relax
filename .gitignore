@@ -1,0 +1,10 @@
+/.idea
+/target/
+/SB-Nft.iml
+/sports.iml
+.settings/
+.project
+.classpath
+gatling-plugin-master/
+/gc.log
+*.iml
